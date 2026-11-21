@@ -43,7 +43,7 @@ The lab involved working with an authorized password-protected PDF file and expl
 
 **1. John the Ripper – Password Recovery Setup**
 
-![John the Ripper Password Recovery](screenshots/01-password-recovery-using-JTR)
+![John the Ripper Password Recovery](screenshots/01-password-recovery-using-JTR.png)
 
 **2. Successfully Recovered Password Using JTR**
 
